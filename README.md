@@ -14,6 +14,8 @@ This new assignment consists of three technical analysis deliverables and a writ
   - **Deliverable 2:** Use the SMOTEENN algorithm to Predict Credit Risk<br>
   - **Deliverable 3:** Use Ensemble Classifiers to Predict Credit Risk<br>
   - **Deliverable 4:** A Written Report on the Credit Risk Analysis (README.md)<br>
+ 
+ ![Alt text](https://images.pexels.com/photos/3944405/pexels-photo-3944405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk<br>
 For all three algorithms, the following have been completed:
